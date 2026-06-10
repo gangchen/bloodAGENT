@@ -1,13 +1,20 @@
-# bloodAGENT (ISBT V15 fork)
+# bloodAGENT (ISBT V16 fork)
 
-**A fork of [ikmb/bloodAGENT](https://github.com/ikmb/bloodAGENT)** with the reference allele tables refreshed against the new **ISBT Blood Group Database V15** (May 2026 release). The C++ engine is unchanged; only the data layer under `data/config/` and a new toolchain under `data/source/v15/` have been added.
+**A fork of [ikmb/bloodAGENT](https://github.com/ikmb/bloodAGENT)** with the reference allele tables refreshed against the **ISBT Blood Group Database V16** (June 2026 release). The C++ engine is unchanged; only the data layer under `data/config/` and the regeneration toolchains under `data/source/v15/` and `data/source/v16/` have been added.
+
+> **V16 update (applied 2026-06-10).** A small, data-only refresh on top of V15: no
+> new genes/systems/antigens and no liftOver. 4 new variants, 24 alleles re-pointed
+> (notably the whole KN system gaining `c.4828A>T`, and GYPB/DO SNV pairs collapsed
+> into `delins`), 3 alleles retired. Full delta and validation:
+> [`data/source/v16/MIGRATION_V16.md`](data/source/v16/MIGRATION_V16.md). The V16
+> toolchain mirrors V15 under [`data/source/v16/`](data/source/v16/).
 
 | | |
 | --- | --- |
 | Upstream | https://github.com/ikmb/bloodAGENT (Wittig lab, IKMB Kiel) |
 | This fork | https://github.com/gangchen/bloodAGENT |
-| Reference data | **ISBT Blood Group Database V15** (applied 2026-05-01) |
-| Coverage | 48 blood group systems · 57 genes · 397 antigens · 2 036 alleles · 1 828 variants |
+| Reference data | **ISBT Blood Group Database V16** (applied 2026-06-10; built on the V15 fork) |
+| Coverage | 48 blood group systems · 57 genes · 397 antigens · 2 001 alleles · 1 832 variants |
 | License | BSD 2-Clause (unchanged from upstream) |
 
 ---

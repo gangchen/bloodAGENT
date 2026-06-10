@@ -45,6 +45,27 @@ data/source/v15/derived/allele_to_variants.tsv
 # Regression test JSON outputs (large + reproducible via tools/run_regression.sh)
 data/source/v15/derived/regression/
 
+# Local pre-V16 backups created by data/source/v16/tools/apply_to_config.sh
+*.pre-v16.bak
+
+# V16 raw API dumps (reproducible via data/source/v16/tools/fetch_isbt_v16.sh)
+data/source/v16/raw/alleles/
+data/source/v16/raw/allele_ids.txt
+data/source/v16/raw/missing_ids.txt
+data/source/v16/raw/rate_limited.txt
+data/source/v16/raw/phenotype.json
+data/source/v16/raw/variant.json
+data/source/v16/raw/allele.json
+data/source/v16/raw/antigen.json
+data/source/v16/raw/publication.json
+data/source/v16/raw/genbank.json
+# Large derived .dat files (reproducible from raw via tools/build_*.py)
+data/source/v16/derived/variation_annotation.v16.dat
+data/source/v16/derived/genotype_to_phenotype_annotation.v16.dat
+data/source/v16/derived/pipeline/
+data/source/v16/derived/allele_to_variants.tsv
+data/source/v16/derived/regression/
+
 # Python bytecode cache
 __pycache__/
 *.pyc

@@ -36,7 +36,7 @@ ToDo	ABO	ABO	ABO*O.08	O	O	O	927C>A	Tyr309Ter	0.00%
 ToDo	ABO	ABO	ABO*O.13	O	O	O	452T>G	Val151Gly	
 ToDo	ABO	ABO	ABO*O.14	O	O	O	635T>A	Val212Glu	
 ToDo	ABO	ABO	ABO*O.15	O	O	O	793T>C	Tyr265His	0.00%
-ToDo	AUG	SLC29A1	AUG*01N	AUG:-1 or AUG1-	AUG:-1 or AUG1-	AUG:-1 or AUG1-	589+1=	?	
+ToDo	AUG	SLC29A1	AUG*01N	AUG:-1 or AUG1-	AUG:-1 or AUG1-	AUG:-1 or AUG1-	589+1G>C	?	
 ToDo	AUG	SLC29A1	AUG*02	AUG:-2 or At(a-)	AUG:-2 or At(a-)	AUG:-2 or At(a-)	1171G>A	Glu391Lys	0.07%
 ToDo	AUG	SLC29A1	AUG*03	AUG:3 or (ATML+)	AUG:3 or (ATML+)	AUG:3 or (ATML+)	1159A>C	Thr387Pro	
 ToDo	AUG	SLC29A1	AUG*04	AUG:4 or (ATAM+)	AUG:4 or (ATAM+)	AUG:4 or (ATAM+)	242A>G	Asn81Ser	0.14%
@@ -96,8 +96,7 @@ ToDo	CROM	CD55	CROM*01N.02	CROM:–7 or Inab	CROM:–7 or Inab	CROM:–7 or Inab
 ToDo	CROM	CD55	CROM*01N.03	CROM:–7 or Inab	CROM:–7 or Inab	CROM:–7 or Inab	508C>T	Arg170Ter	0.00%
 ToDo	CROM	CD55	CROM*01N.04	CROM:–7 or Inab	CROM:–7 or Inab	CROM:–7 or Inab	367dup	Thr123AsnfsTer6	
 ToDo	CROM	CD55	CROM*01N.06	CROM:–7 or Inab	CROM:–7 or Inab	CROM:–7 or Inab	639G>A	Trp213Ter	0.00%
-ToDo	CTL2	SLC44A2	CTL2*01.-02	CTL2:-2 or RIF-	CTL2:-2 or RIF-	CTL2:-2 or RIF-	1192C>A	Pro398Thr	0.00%
-ToDo	CTL2	SLC44A2	CTL2*01.-05	CTL2:–5 or BROS- or CTL2.5	CTL2:–5 or BROS- or CTL2.5	CTL2:–5 or BROS- or CTL2.5	451C>T	Leu151Phe	0.52%
+ToDo	CTL2	SLC44A2	CTL2*01	CTL2:1 or VER+	CTL2:1 or VER+	CTL2:1 or VER+	455A>G	Gln152Arg	
 ToDo	CTL2	SLC44A2	CTL2*01.04	CTL2:–3,4 or Csb, or CTL2.4, or HNA-3b	CTL2:–3,4 or Csb, or CTL2.4, or HNA-3b	CTL2:–3,4 or Csb, or CTL2.4, or HNA-3b	455A=	Gln152=	
 ToDo	DI	SLC4A1	DI*01	DI:1,-2 or Di(a+b-)	DI:1,-2 or Di(a+b-)	DI:1,-2 or Di(a+b-)	2561C>T	Pro854Leu	0.28%
 ToDo	DI	SLC4A1	DI*02.03	DI:3,-4 or Wr(a+b-)	DI:3,-4 or Wr(a+b-)	DI:3,-4 or Wr(a+b-)	1972G>A	Glu658Lys	0.03%
@@ -347,12 +346,12 @@ ToDo	JR	ABCG2	ABCG2*01N.05	Jr(a−)	Jr(a−)	Jr(a−)	784G>T	Gly262Ter	0.00%
 ToDo	JR	ABCG2	ABCG2*01N.08	Jr(a−)	Jr(a−)	Jr(a−)	542dup	Phe182ValfsTer14	0.00%
 ToDo	JR	ABCG2	ABCG2*01N.09	Jr(a−)	Jr(a−)	Jr(a−)	730C>T	Gln244Ter	
 ToDo	JR	ABCG2	ABCG2*01N.15	Jr(a−)	Jr(a−)	Jr(a−)	420dup	Gln141ThrfsTer16	0.00%
-ToDo	JR	ABCG2	ABCG2*01N.17	Jr(a−)	Jr(a−)	Jr(a−)	263+1G>A		0.00%
+ToDo	JR	ABCG2	ABCG2*01N.17	Jr(a−)	Jr(a−)	Jr(a−)	263+1G>A	?	0.00%
 ToDo	JR	ABCG2	ABCG2*01N.18	Jr(a−)	Jr(a−)	Jr(a−)	289A>T	Lys97Ter	
 ToDo	JR	ABCG2	ABCG2*01N.19	Jr(a−)	Jr(a−)	Jr(a−)	566del	Gly189GlufsTer8	
 ToDo	JR	ABCG2	ABCG2*01N.20	Jr(a−)	Jr(a−)	Jr(a−)	1515del	Phe506SerfsTer4	0.00%
 ToDo	JR	ABCG2	ABCG2*01N.21	Jr(a−)	Jr(a−)	Jr(a−)	1723C>T	Arg575Ter	0.01%
-ToDo	JR	ABCG2	ABCG2*01N.24	Jr(a−)	Jr(a−)	Jr(a−)	2T>C		0.00%
+ToDo	JR	ABCG2	ABCG2*01N.24	Jr(a−)	Jr(a−)	Jr(a−)	2T>C	Met1?	0.00%
 ToDo	JR	ABCG2	ABCG2*01N.26	Jr(a−)	Jr(a−)	Jr(a−)	439C>T	Arg147Trp	0.00%
 ToDo	JR	ABCG2	ABCG2*01N.28	Jr(a-)	Jr(a-)	Jr(a-)	1820+1G>A	?	0.00%
 ToDo	JR	ABCG2	ABCG2*01W.01	Jr(a+w)	Jr(a+w)	Jr(a+w)	421C>A	Gln141Lys	11.19%
@@ -529,35 +528,32 @@ ToDo	KLF1	KLF1	KLF1*BGM62	In(Lu)	In(Lu)	In(Lu)	954G>C	Trp318Cys	0.00%
 ToDo	KLF1	KLF1	KLF1*BGM63	In(Lu)	In(Lu)	In(Lu)	421C>T	Arg141Ter	0.00%
 ToDo	KLF1	KLF1	KLF1*BGM64	In(Lu)	In(Lu)	In(Lu)	199del	Arg67GlyfsTer170	
 ToDo	KLF1	KLF1	KLF1*BGM65	In(Lu)	In(Lu)	In(Lu)	604G>A	Gly202Arg	0.02%
-ToDo	KN	CR1	KN*01.-05	KN:5 or Yk(a-)	KN:5 or Yk(a-)	KN:5 or Yk(a-)	4223C>T	Thr1408Met	27.54%
+ToDo	KN	CR1	KN*01	KN:1 or Kn(a+) KN:3 or McC(a+) KN:4 or S11+ KN:5 or Yk(a+) KN:8 or S13+ KN:9 or KCAM+ KN:11 or DACY+	KN:1 or Kn(a+) KN:3 or McC(a+) KN:4 or S11+ KN:5 or Yk(a+) KN:8 or S13+ KN:9 or KCAM+ KN:11 or DACY+	KN:1 or Kn(a+) KN:3 or McC(a+) KN:4 or S11+ KN:5 or Yk(a+) KN:8 or S13+ KN:9 or KCAM+ KN:11 or DACY+	4828A>T	Thr1610Ser	97.99%
 ToDo	KN	CR1	KN*01.-08	KN:-8 or Sl3-	KN:-8 or Sl3-	KN:-8 or Sl3-	4828A=	Thr1610=	
-ToDo	KN	CR1	KN*01.10	KN:-9 or KCAM- KN:10 or KDAS+	KN:-9 or KCAM- KN:10 or KDAS+	KN:-9 or KCAM- KN:10 or KDAS+	4843A>G	Ile1615Val	25.83%
-ToDo	KN	CR1	KN*01.12	KN:-11 or DACY- KN:12 or YCAD+	KN:-11 or DACY- KN:12 or YCAD+	KN:-11 or DACY- KN:12 or YCAD+	3623A>G	His1208Arg	20.04%
-ToDo	KN	CR1	KN*01W	Helgeson Phenotype	Helgeson Phenotype	Helgeson Phenotype	488-2599T>C	?	15.73%
-ToDo	KN	CR1	KN*02	KN:2 or Kn(a-b+)	KN:2 or Kn(a-b+)	KN:2 or Kn(a-b+)	4681G>A	Val1561Met	2.57%
 ToDo	LAN	ABCB6	ABCB6*01N.01	Lan-	Lan-	Lan-	196dup	Ala66GlyfsTer96	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.02	Lan-	Lan-	Lan-	717G>A	Trp239Ter	0.01%
 ToDo	LAN	ABCB6	ABCB6*01N.07	Lan-	Lan-	Lan-	1867delinsAACAGGTGA	Gly623AsnfsTer3	
 ToDo	LAN	ABCB6	ABCB6*01N.08	Lan-	Lan-	Lan-	1942C>T	Arg648Ter	0.01%
-ToDo	LAN	ABCB6	ABCB6*01N.10	Lan-	Lan-	Lan-	2256+2T>G		0.00%
+ToDo	LAN	ABCB6	ABCB6*01N.10	Lan-	Lan-	Lan-	2256+2T>G	?	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.11	Lan-	Lan-	Lan-	1236G>A	Trp412Ter	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.12	Lan-	Lan-	Lan-	1559dup	Thr521HisfsTer2	
 ToDo	LAN	ABCB6	ABCB6*01N.13	Lan-	Lan-	Lan-	574C>T	Arg192Trp	0.18%
 ToDo	LAN	ABCB6	ABCB6*01N.15	Lan-	Lan-	Lan-	376del	Val126SerfsTer124	0.01%
 ToDo	LAN	ABCB6	ABCB6*01N.16	Lan-	Lan-	Lan-	459del	Trp154GlyfsTer96	0.00%
-ToDo	LAN	ABCB6	ABCB6*01N.17	Lan-	Lan-	Lan-	2256+1G>A		0.00%
+ToDo	LAN	ABCB6	ABCB6*01N.17	Lan-	Lan-	Lan-	2256+1G>A	?	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.18	Lan-	Lan-	Lan-	301dup	Ala101GlyfsTer61	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.19	Lan-	Lan-	Lan-	718C>T	Arg240Ter	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.20	Lan-	Lan-	Lan-	869-2A>G	?	0.00%
+ToDo	LAN	ABCB6	ABCB6*01N.24	Lan-	Lan-	Lan-	301dup	Ala101GlyfsTer61	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.26	Lan-	Lan-	Lan-	1617del	Gln539HisfsTer15	0.00%
-ToDo	LAN	ABCB6	ABCB6*01N.28	Lan-	Lan-	Lan-	1A>C		0.00%
+ToDo	LAN	ABCB6	ABCB6*01N.28	Lan-	Lan-	Lan-	1A>C	Met1?	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.29	Lan-	Lan-	Lan-	827G>A	Arg276Gln	0.02%
-ToDo	LAN	ABCB6	ABCB6*01N.30	Lan-	Lan-	Lan-	971-1G>A		0.00%
+ToDo	LAN	ABCB6	ABCB6*01N.30	Lan-	Lan-	Lan-	971-1G>A	?	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.31	Lan-	Lan-	Lan-	1825G>A	Val609Met	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.32	Lan-	Lan-	Lan-	1912C>T	Arg638Cys	0.02%
 ToDo	LAN	ABCB6	ABCB6*01N.33	Lan-	Lan-	Lan-	2155C>T	Gln719Ter	0.00%
-ToDo	LAN	ABCB6	ABCB6*01N.34	Lan-	Lan-	Lan-	2351+1G>A		0.00%
-ToDo	LAN	ABCB6	ABCB6*01N.36	Lan-	Lan-	Lan-	1656-1G>A		
+ToDo	LAN	ABCB6	ABCB6*01N.34	Lan-	Lan-	Lan-	2351+1G>A	?	0.00%
+ToDo	LAN	ABCB6	ABCB6*01N.36	Lan-	Lan-	Lan-	1656-1G>A	?	
 ToDo	LAN	ABCB6	ABCB6*01N.37	Lan-	Lan-	Lan-	1463G>A	Trp488Ter	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.38	Lan-	Lan-	Lan-	829del	Ala277HisfsTer14	0.00%
 ToDo	LAN	ABCB6	ABCB6*01N.39	Lan-	Lan-	Lan-	589G>T	Gly197Ter	
